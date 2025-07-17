@@ -1,0 +1,36 @@
+{
+    "es": {
+        "hola": "¡Hola! Bienvenido a nuestra tienda de juegos de mesa. ¿En qué puedo ayudarte?",
+        "qué juegos tienen": "Tenemos una gran variedad de juegos de mesa, desde clásicos hasta nuevos lanzamientos.",
+        "tienen magic the gathering": "¡Sí! Contamos con cartas, sobres y accesorios de Magic: The Gathering.",
+        "tienen torneos": "Sí, organizamos torneos semanales de varios juegos. Puedes revisar el calendario en nuestra web.",
+        "cuáles son los métodos de pago": "Aceptamos tarjetas de crédito, débito y pagos por Sinpe Móvil.",
+        "hacen envíos": "Sí, hacemos envíos a todo el país. El costo depende del destino.",
+        "cuánto cuesta un juego": "Depende del juego. ¿Tienes alguno en mente?",
+        "puedo reservar un juego": "¡Claro! Puedes reservarlo dejando un adelanto o mediante nuestra web.",
+        "tienen juegos para niños": "Sí, tenemos juegos adecuados para todas las edades.",
+        "cuál es el horario de atención": "Abrimos de lunes a sábado de 10 a.m. a 7 p.m.",
+        "tienen juegos de rol": "Sí, contamos con manuales y dados para D&D, Pathfinder y otros sistemas.",
+        "dónde están ubicados": "Estamos en San José centro, 200 metros norte del Teatro Nacional.",
+        "tienen descuentos": "Sí, ofrecemos promociones mensuales y descuentos por membresía.",
+        "qué es un TCG": "Un TCG (Trading Card Game) es un juego en el que los jugadores coleccionan e intercambian cartas.",
+        "cómo aprender a jugar": "Ofrecemos talleres para aprender juegos como Catan, Magic y más. ¡Pregúntanos por las fechas!"
+    },
+    "en": {
+        "hello": "Hi! Welcome to our board game store. How can I help you?",
+        "what games do you have": "We have a wide variety of board games, from classics to new releases.",
+        "do you have magic the gathering": "Yes! We have Magic: The Gathering cards, boosters, and accessories.",
+        "do you host tournaments": "Yes, we organize weekly tournaments for various games. Check the schedule on our website.",
+        "what payment methods do you accept": "We accept credit/debit cards and mobile payments.",
+        "do you ship": "Yes, we ship nationwide. Cost depends on the destination.",
+        "how much does a game cost": "It depends on the game. Do you have one in mind?",
+        "can I reserve a game": "Of course! You can reserve it with a deposit or through our website.",
+        "do you have games for kids": "Yes, we offer games suitable for all ages.",
+        "what are your store hours": "We’re open Monday to Saturday from 10 a.m. to 7 p.m.",
+        "do you sell roleplaying games": "Yes, we stock manuals and dice for D&D, Pathfinder, and more.",
+        "where are you located": "We’re in downtown San José, 200 meters north of the National Theater.",
+        "do you offer discounts": "Yes, we have monthly promotions and member discounts.",
+        "what is a TCG": "A TCG (Trading Card Game) is a game where players collect and trade cards.",
+        "how can I learn to play": "We offer workshops to learn games like Catan, Magic, and more. Ask us about upcoming sessions!"
+    }
+}
